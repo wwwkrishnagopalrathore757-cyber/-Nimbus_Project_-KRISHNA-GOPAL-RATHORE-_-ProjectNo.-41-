@@ -5,6 +5,7 @@
 #include "bin.h"
 
 // Simple report generator
-void print_trip_report(const RouteResult *result,const Bin *bins, =int bin_count);
+// Yaha hum final trip ka ek chota sa summary print karenge
+void print_trip_report(const RouteResult *result, const Bin *bins, int bin_count);
 
 #endif
